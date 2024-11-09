@@ -1,1 +1,1 @@
-sapatos,vasos,roupas-usadas
+sapatos(3),vasos(2),roupas-usadas(6)

@@ -5,6 +5,20 @@
     <artifactId>VirtualWord</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
+    <dependencies>
+        <dependency>
+            <groupId>com.thoughtworks.constructor</groupId>
+            <artifactId>override_2.12</artifactId>
+            <version>2.2.0</version>
+            <type>jar</type>
+        </dependency>
+        <dependency>
+            <groupId>com.thoughtworks.constructor</groupId>
+            <artifactId>override_sjs0.6_2.12</artifactId>
+            <version>2.2.0</version>
+            <type>jar</type>
+        </dependency>
+    </dependencies>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>23</maven.compiler.release>
